@@ -30,3 +30,12 @@ scoop
 choco
 brew
 cargo(best for linux)
+
+> I installed it with curl: (UBUNTU)
+> curl -fsSL https://deno.land/x/install/install.sh | sh
+```
+  export DENO_INSTALL="/home/piyush/.deno"
+  export PATH="$DENO_INSTALL/bin:$PATH"
+added directory to my Bash profile after installation
+```
+
